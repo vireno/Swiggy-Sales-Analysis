@@ -1,3 +1,5 @@
+📊 Swiggy Sales Analysis Dashboard – Excel Project
+
 This project presents an interactive Swiggy Sales Analysis Dashboard built entirely in Microsoft Excel using advanced data analytics and visualization techniques.The dashboard provides a complete overview of Swiggy’s sales performance, customer behavior, and order patterns across India.
 
 🔍 Key Insights & Features
